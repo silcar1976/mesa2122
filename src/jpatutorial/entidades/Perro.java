@@ -13,7 +13,7 @@ public class Perro {
  @Id
  
 private String raza;
-
+private String pelaje1;
     public Perro() {
     }
 
