@@ -14,6 +14,7 @@ public class Perro {
  
 private String raza;
 private String pelaje1;
+private String pelaje2;
     public Perro() {
     }
 
